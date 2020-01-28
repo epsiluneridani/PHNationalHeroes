@@ -1,0 +1,170 @@
+[
+    {
+        "name" : "Jose Rizal",
+        "description" : "The National Hero."
+    },
+    {
+        "name" : "Andres Bonifacio",
+        "description" : "The Great Plebian and Father of the Katipunan."
+    },
+    {
+        "name" : "Gregorio del Pilar",
+        "description" : "Hero of the Battle of Tirad Pass."
+    },
+    {
+        "name" : "Emilio Aguinaldo",
+        "description" : "President of the First Philippine Republic."
+    },
+    {
+        "name" : "Apolinario Mabini",
+        "description" : "Sublime Paralytic and Brains of the Revolution."
+    },
+    {
+        "name" : "GOMBURZA",
+        "description" : "Martyred Priests of 1872."
+    },
+    {
+        "name" : "Trece Martirez",
+        "description" : "13 Martyrs from Cavite."
+    },
+    {
+        "name" : "Emilio Jacinto",
+        "description" : "Brains of the Katipunan."
+    },
+    {
+        "name" : "Antonio Luna",
+        "description" : "Cofounder of La Independencia."
+    },
+    {
+        "name" : "Melchora Aquino",
+        "description" : "Mother of Balintawak."
+    },
+    {
+        "name" : "Graciano Lopez-Jaena",
+        "description" : "Greatest Filipino Orator of the Propaganda Movement."
+    },
+    {
+        "name" : "Panday Pira",
+        "description" : "First Filipino Cannon-maker."
+    },
+    {
+        "name" : "Mariano Ponce",
+        "description" : "Propagandist, Historian, Diplomat And Managing Editor of La Solidaridad."
+    },
+    {
+        "name" : "Gregoria de Jesus",
+        "description" : "Lakambini of Katipunan and Wife of Andres Bonifacio."
+    },
+    {
+        "name" : "Fernando Ma. Guerrero",
+        "description" : "Poet of the Revolution."
+    },
+    {
+        "name" : "Felipe Agoncillo",
+        "description" : "Outstanding Diplomat of the First Philippine Republic."
+    },
+    {
+        "name" : "Rafael Palma",
+        "description" : "Cofounder of La Independencia and First UP president."
+    },
+    {
+        "name" : "Juan Luna",
+        "description" : "Greatest Filipino Painter."
+    },
+    {
+        "name" : "Marcelo H. Del Pilar",
+        "description" : "Greatest Journalist and Moving Spirit of the Propaganda Movement."
+    },
+    {
+        "name" : "Leona Florentino",
+        "description" : "First Filipino Poetess(from Ilocos Sur)."
+    },
+    {
+        "name" : "Pedro Paterno",
+        "description" : "Peacemaker of the Revolution."
+    },
+    {
+        "name" : "Isabelo delos Reyes",
+        "description" : "Founder of Philippine Socialism."
+    },
+    {
+        "name" : "Artemio Ricarte",
+        "description" : "Revolutionary General, known as Viborra."
+    },
+    {
+        "name" : "Jose Palma",
+        "description" : "Wrote the Spanish Lyrics of the Philippine National Anthem."
+    },
+    {
+        "name" : "Lakandola",
+        "description" : "Chief of Tondo, Friendly to the Spaniards."
+    },
+    {
+        "name" : "Rajah Soliman",
+        "description" : "The Last Rajah of Manila."
+    },
+    {
+        "name" : "Leonor Rivera",
+        "description" : "Cousin and Fiancee of Jose Rizal."
+    },
+    {
+        "name" : "Marcela Mariño Agoncillo",
+        "description" : "Maker of the First Filipino Flag"
+    },
+    {
+        "name" : "Galicano Apacible",
+        "description" : "One of the Founders of Katipunan."
+    },
+    {
+        "name" : "Jose Ma. Panganiban",
+        "description" : "Bicolandia's Greatest Contribution to the Historic Campaign for Reforms."
+    },
+    {
+        "name" : "Diego Silang",
+        "description" : "Leader of the Ilocano Revolt."
+    },
+    {
+        "name" : "Maria Josefa Gabriela Silang",
+        "description" : "Continued the Fight After her Husband's Death. "
+    },
+    {
+        "name" : "Lapu-Lapu",
+        "description" : "Chieftain of Mactan Who Killed Magellan. First Filipino Hero."
+    },
+    {
+        "name" : "Francisco Dagohoy",
+        "description" : "Leader of the Longest Revolt in Bohol."
+    },
+    {
+        "name" : "Epifanio delos Santos",
+        "description" : "A Man of Many Talents; the Former Highway 54 is Now Named After him (EDSA)."
+    },
+    {
+        "name" : "Francisco Baltazar",
+        "description" : "Prince of Tagalog Poets."
+    },
+    {
+        "name" : "Teresa Magbanua",
+        "description" : "First Woman Fighter in Panay. Visayan Joan of Arc."
+    },
+    {
+        "name" : "Trinidad Tecson",
+        "description" : "Mother of Biak-na-Bato."
+    },
+    {
+        "name" : "Agueda Esteban",
+        "description" : "Wife of Artemio Ricarte Who Carried Secret Messages About Spanish Troops."
+    },
+    {
+        "name" : "Marina Dizon",
+        "description" : "Daughter of One of the Trece Martirez."
+    },
+    {
+        "name" : "Francisco Makabulos",
+        "description" : "Leader of the Revolt in Tarlac."
+    },
+    {
+        "name" : "Julian Felipe",
+        "description" : "Composer of the Philippine National Anthem."
+    },
+]
